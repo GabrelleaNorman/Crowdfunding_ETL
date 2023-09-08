@@ -21,8 +21,10 @@ The instructions for this mini project are divided into the following subsection
     A "category" column that contains only the category titles
 
 The following image shows this category DataFrame:
+![image](https://github.com/GabrelleaNorman/Crowdfunding_ETL/assets/130908954/9a96512b-7d6f-440e-a273-1201bf844a0b)
 
-category DataFrame
+
+
 
 2. Export the category DataFrame as category.csv and save it to your GitHub repository.
 
@@ -34,7 +36,8 @@ category DataFrame
 
     The following image shows this subcategory DataFrame:
 
-subcategory DataFrame
+![image](https://github.com/GabrelleaNorman/Crowdfunding_ETL/assets/130908954/bd250227-274f-4512-87cd-3d36e49f75be)
+
 
 4. Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
 
@@ -71,15 +74,20 @@ subcategory DataFrame
     The "subcategory_id" column, with the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
 
     The following image shows this campaign DataFrame:
+   ![image](https://github.com/GabrelleaNorman/Crowdfunding_ETL/assets/130908954/4a4309fd-99b8-4521-aaf9-ae01b23d6122)
 
-campaign DataFrame
+
+
 
 2. Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.
 
 *Create the Contacts DataFrame
 
 1. Choose one of the following two options for extracting and transforming the data from the contacts.xlsx Excel data:
-**For this project we chose Option 1
+
+**For this project we chose Option 1**
+
+
 *Option 1: Use Python dictionary methods.
 
 
@@ -106,7 +114,8 @@ campaign DataFrame
 
 3. Check that your final DataFrame resembles the one in the following image:
 
-final contact DataFrame
+![image](https://github.com/GabrelleaNorman/Crowdfunding_ETL/assets/130908954/3cdcd5ea-7342-4635-8333-1bbea272c191)
+
 
 *Create the Crowdfunding Database
 
